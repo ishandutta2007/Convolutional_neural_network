@@ -29,3 +29,10 @@ Install jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html).
 
 Credits for this code go to [greydanus](https://github.com/greydanus/pythonic_ocr). I've merely created a wrapper to get people started. 
 
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
